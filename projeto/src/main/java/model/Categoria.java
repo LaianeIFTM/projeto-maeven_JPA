@@ -1,6 +1,6 @@
 package model;
 
-
+//comentário bruno
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
