@@ -1,5 +1,5 @@
 package model;
-
+// outro comentário bruno na net
 import java.io.Serializable;
 
 import javax.persistence.Entity;
